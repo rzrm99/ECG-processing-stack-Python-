@@ -150,14 +150,6 @@ and a summary of mean/median Se, PPV, F1.
 └── README.md                       # This file
 ```
 
----
-
-##  License
-
-Choose a license (MIT recommended) and add `LICENSE`.
-
----
-
 ##  Citation
 
 If you use this in research or projects, please cite:  
