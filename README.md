@@ -155,7 +155,7 @@ and a summary of mean/median Se, PPV, F1.
 If you use this in research or projects, please cite:  
 **“ECG + HRV Advanced Pipeline (Python, PhysioNet) — loading, denoising, QRS detection, HRV metrics, and evaluation vs annotations.”**
 
-## 🔗 Related Work
+##  Related Work
 This project is the Python version of my MATLAB ECG pipeline:  
 [ECG-processing-stack (MATLAB)](https://github.com/rzrm99/ECG-processing-stack)
 
